@@ -1,6 +1,8 @@
 # Computer-Networking
 UDP Based Multithreaded Chat Application in Java
+
 #Prerequisite
+
 1.)This application is basicallyAsynchronous, asynchronous in this context means that both the server and the client can send each other texts independently without waiting for any kind of response from the other party. 
 
 2.)We will be using the concept of multi-threading to implement Sending and receiving text messages between the processes with the help of DatagramPackets. Datagrams are bundles of information passed between applications.
